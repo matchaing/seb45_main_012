@@ -48,7 +48,7 @@
 
 | 내 정보 페이지 | 회원탈퇴 |
 | :---: | :---: |
-| <img alt="내정보" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/52d9fe51-44b4-4cfa-9552-86e0f00cbd84" height="200" width="370"> | <img alt="https://github.com/codestates-seb/seb45_main_012/assets/69198709/c1a98501-2185-4409-9224-c1ee6321a8a5" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/776db6d9-9098-4525-b042-4e08d0eda0ad" height="200" width="370"> | 
+| <img alt="내정보" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/52d9fe51-44b4-4cfa-9552-86e0f00cbd84" height="200" width="370"> | <img alt="https://github.com/codestates-seb/seb45_main_012/assets/69198709/c1a98501-2185-4409-9224-c1ee6321a8a5" src="https://github.com/matchaing/seb45_main_012/assets/69198709/84d73a7a-68b2-492e-8645-5e277db2e56f" height="200" width="370"> | 
 </br>
 
 
