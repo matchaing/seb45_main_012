@@ -32,7 +32,7 @@
 ## 🪄 Pages Preview
 | 메인: 비로그인 | 메인: 로그인 |
 | :---: | :---: |
-| <img alt="메인비로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/aa9d07a4-feb4-4cd4-9c09-2a5b3a670c75" height="200" width="370"> | <img alt="메인로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/dfd8f34b-bf08-4ea9-a990-16733aaec02c" height="200" width="370"> | 
+| <img alt="메인비로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/5da1c054-92a2-4219-a726-7d7d5102dc02" height="200" width="370"> | <img alt="메인로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/dfd8f34b-bf08-4ea9-a990-16733aaec02c" height="200" width="370"> | 
 
 | 회원가입 | 로그인 |
 | :---: | :---: |
@@ -48,8 +48,9 @@
 
 | 내 정보 페이지 | 회원탈퇴 |
 | :---: | :---: |
-| <img alt="내정보" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/52d9fe51-44b4-4cfa-9552-86e0f00cbd84" height="200" width="370"> | <img alt="https://github.com/codestates-seb/seb45_main_012/assets/69198709/c1a98501-2185-4409-9224-c1ee6321a8a5" src="https://im3.ezgif.com/tmp/ezgif-3-79cf456848.gif" height="200" width="370"> | 
+| <img alt="내정보" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/52d9fe51-44b4-4cfa-9552-86e0f00cbd84" height="200" width="370"> | <img alt="https://github.com/codestates-seb/seb45_main_012/assets/69198709/c1a98501-2185-4409-9224-c1ee6321a8a5" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/776db6d9-9098-4525-b042-4e08d0eda0ad" height="200" width="370"> | 
 </br>
+
 
 ## 🔧 Tech Stack
 <div align="center">
