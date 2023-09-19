@@ -23,26 +23,32 @@
 | [@matchaing](https://github.com/matchaing) |    [@jumpm9239](https://github.com/jumpm9239) | [@yuumni](https://github.com/yuumni) | [@wjdgml](https://github.com/wjdgml) | [@windeer9](https://github.com/windeer9) |
 </br>
 
+## 🔗 배포링크
+- [배포 링크](http://greenearthforus.s3-website.ap-northeast-2.amazonaws.com/)
+- Test ID : test1
+- Test PW : @testpassword1
+</br>
+
 ## 🪄 Pages Preview
 | 메인: 비로그인 | 메인: 로그인 |
 | :---: | :---: |
-| <img alt="메인비로그인" src="https://im3.ezgif.com/tmp/ezgif-3-85fd7843e2.gif" height="200" width="370"> | <img alt="메인로그인" src="https://im3.ezgif.com/tmp/ezgif-3-3ab0edfc22.gif" height="200" width="370"> | 
+| <img alt="메인비로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/aa9d07a4-feb4-4cd4-9c09-2a5b3a670c75" height="200" width="370"> | <img alt="메인로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/dfd8f34b-bf08-4ea9-a990-16733aaec02c" height="200" width="370"> | 
 
 | 회원가입 | 로그인 |
 | :---: | :---: |
-| <img alt="회원가입" src="https://im3.ezgif.com/tmp/ezgif-3-d7f0cae289.gif" height="200" width="370"> | <img alt="로그인" src="https://im3.ezgif.com/tmp/ezgif-3-bb8f6fda6d.gif" height="200" width="370"> | 
+| <img alt="회원가입" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/28106d5b-00f2-467e-991b-cd090d005d28" height="200" width="370"> | <img alt="로그인" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/40b61c71-9675-4da4-b4b9-5754417cd5d3" height="200" width="370"> | 
 
 | 자유게시판 | 인증게시판 |
 | :---: | :---: |
-| <img alt="자유게시판" src="https://im3.ezgif.com/tmp/ezgif-3-cb348580da.gif" height="200" width="370"> | <img alt="인증게시판" src="https://im3.ezgif.com/tmp/ezgif-3-0c893be4f6.gif" height="200" width="370"> | 
+| <img alt="자유게시판" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/cd4f0228-f79e-423a-8d7c-2b1bfb1aee15" height="200" width="370"> | <img alt="인증게시판" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/b9b6e0d4-85f4-4f68-9235-30459e371791" height="200" width="370"> | 
 
 | 글 작성 | 글 삭제 |
 | :---: | :---: |
-| <img alt="글작성" src="https://im3.ezgif.com/tmp/ezgif-3-036d749da1.gif" height="200" width="370"> | <img alt="글삭제" src="https://im3.ezgif.com/tmp/ezgif-3-e65f3f95cb.gif" height="200" width="370"> | 
+| <img alt="글작성" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/b5748bc9-538b-4cbb-8202-2fa37a490c83" height="200" width="370"> | <img alt="글삭제" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/8ef48f6b-dcc2-46e2-a178-c3df3d8bbb63" height="200" width="370"> | 
 
 | 내 정보 페이지 | 회원탈퇴 |
 | :---: | :---: |
-| <img alt="내정보" src="https://im3.ezgif.com/tmp/ezgif-3-7cc4a97676.gif" height="200" width="370"> | <img alt="회원탈퇴" src="https://im3.ezgif.com/tmp/ezgif-3-79cf456848.gif" height="200" width="370"> | 
+| <img alt="내정보" src="https://github.com/codestates-seb/seb45_main_012/assets/69198709/52d9fe51-44b4-4cfa-9552-86e0f00cbd84" height="200" width="370"> | <img alt="https://github.com/codestates-seb/seb45_main_012/assets/69198709/c1a98501-2185-4409-9224-c1ee6321a8a5" src="https://im3.ezgif.com/tmp/ezgif-3-79cf456848.gif" height="200" width="370"> | 
 </br>
 
 ## 🔧 Tech Stack
@@ -106,3 +112,4 @@
 - 프로필 사진 등록 및 변경
 - 비밀번호 찾기
 - 게시글 수정
+
